@@ -26,8 +26,14 @@ class Landing extends React.Component {
                 <div class="container">
                   <div class="row">
                     <h1 class="lead">MemoSphere</h1>
-                    <p class="tagline">La plateforme d’héritage moral à destination de ceux que vous aimez.</p>
+                    <p class="tagline">La plateforme de création d’héritage moral à destination de ceux que vous aimez.</p>
+                    <br/>
                     <p>  <Link class="btn btn-action btn-lg" to='signUp'> Ouvrez votre Sphère </Link></p>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <p class="warn"> Attention ce site est une démonstration aucune donnée n'est récoltée </p>
+
                   </div>
                 </div>
               </header>
